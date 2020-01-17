@@ -1,0 +1,6 @@
+name: test_th_ubuntu_hardening_baseline
+version: 1.0.0
+depends: 
+  - name: linux-baseline
+    url: https://github.com/dev-sec/linux-baseline
+  
